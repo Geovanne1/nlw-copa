@@ -1,0 +1,27 @@
+npm init -y = criar o projeto
+
+npm i typescript -D = instalar o typeScript
+
+npx tsc --init = cria o arquivo de configuração da typeScript
+    ("target": "es2020")
+
+npm i fastify = para trabalhar com banco de dados
+
+npm i tsx -D = automatizar o processo de compilação e execusão
+    package.json em scripts "dev": "tsx src/server.ts"
+
+npm run dev = executar o servidos
+
+npm i prisma -D = instalar o prisma
+
+npm i @prisma/client = extensão do prisma
+
+npx prisma init --datasource-provider SQLite = utilizar prisma com SQLite
+
+npx prisma migrate dev = gerar a pasta migrate para criar versões do banco de dados
+
+npx prisma studio = mostra o banco de dados
+
+npm i prisma-erd-generator @mermaid-js/mermaid-cli -D = diagramas
+
+npx prisma generate = 
