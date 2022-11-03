@@ -24,4 +24,8 @@ npx prisma studio = mostra o banco de dados
 
 npm i prisma-erd-generator @mermaid-js/mermaid-cli -D = diagramas
 
-npx prisma generate = 
+npx prisma generate
+
+npm i zod = tratar de erros
+
+npm i short-unique-id = gerador de códigos
