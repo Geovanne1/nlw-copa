@@ -1,1 +1,10 @@
 npx create-next-app@latest --use-npm = criar projeto react com next
+
+npm run dev = rodar a aplicação
+
+npm install -D tailwindcss postcss autoprefixer = instalação do tailwindcss e suas dependencias
+
+npx tailwindcss init -p = criar o arquivo de configuração
+  content: ['./src/**/*.tsx',], colocar no arquivo de configurações
+
+npm i axios
