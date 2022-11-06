@@ -29,3 +29,5 @@ npx prisma generate
 npm i zod = tratar de erros
 
 npm i short-unique-id = gerador de códigos
+
+npm i @fastify/jwt = recurso para trabalho jwt
